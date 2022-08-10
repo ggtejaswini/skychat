@@ -1,0 +1,8 @@
+body
+{
+    background-image: linear-gradient(to right top, #845EC2, #A178DF, #BE93FD, #DCB0FF, #FACCFF);
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}

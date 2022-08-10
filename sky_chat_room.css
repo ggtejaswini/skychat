@@ -1,0 +1,16 @@
+body
+{
+ background-image:url(bg2.png);
+}
+.color
+{
+    color: black;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+#output
+{
+    color: aqua;
+}
